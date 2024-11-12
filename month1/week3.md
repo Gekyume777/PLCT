@@ -6,7 +6,7 @@
   
 ## 2 Nuttx on DuoS
 
-  - 收集了pre-test，准备上手
+  - 收集了previous-test，准备上手
     
 ## 3 Fedora on DuoS
 
